@@ -21,29 +21,29 @@ The project uses the **Classic Models** database, which contains business data r
 * Products
 * Product Lines
 
-🛠️ SQL Concepts Used
-SELECT
-WHERE
-ORDER BY
-DISTINCT
-LIMIT
-Aggregate Functions (SUM, AVG, COUNT, MIN, MAX)
-GROUP BY
-HAVING
-INNER JOIN
-LEFT JOIN
-RIGHT JOIN
-Subqueries
-Views
-Stored Procedures
-Date Functions
+## 🛠️ SQL Concepts Used
+* SELECT
+* WHERE
+* ORDER BY
+* DISTINCT
+* LIMIT
+* Aggregate Functions (SUM, AVG, COUNT, MIN, MAX)
+* GROUP BY
+* HAVING
+* INNER JOIN
+* LEFT JOIN
+* RIGHT JOIN
+* Subqueries
+* Views
+* Stored Procedures
+* Date Functions
 
-💻 Tools Used
-MySQL Workbench
-MySQL
-Microsoft Excel (CSV Files)
+## 💻 Tools Used
+* MySQL Workbench
+* MySQL
+* Microsoft Excel (CSV Files)
 
-📁 SQL File
-classic_model_mysql.sql
+## 📁 SQL File
+`classic_model_mysql.sql`
 
-Author : Vedant Patekar
+## Author : Vedant Patekar
