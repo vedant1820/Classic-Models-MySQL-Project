@@ -46,4 +46,4 @@ The project uses the **Classic Models** database, which contains business data r
 ## 📁 SQL File
 `classic_model_mysql.sql`
 
-## Author : Vedant Patekar
+### Author : Vedant Patekar
