@@ -1,4 +1,5 @@
-Classic Models MySQL Project
+# Classic Models MySQL Project
+
 📌 Project Overview
 
 This project demonstrates SQL skills using the Classic Models sample database. It includes 60 SQL queries ranging from beginner to advanced level, covering data retrieval, business analysis, joins, subqueries, views, stored procedures, and sales reporting.
