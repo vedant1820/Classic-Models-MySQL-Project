@@ -2,16 +2,15 @@
 
 ## 📌 Project Overview
 
-This project demonstrates SQL skills using the **Classic Models** sample database. It includes **60 SQL queries** ranging from beginner to advanced level, covering data retrieval, business analysis, joins, subqueries, views, stored procedures, and sales reporting.
+This project demonstrates **SQL** and **Power BI** skills using the **Classic Models** sample database. It includes **60 SQL queries** ranging from beginner to advanced level, covering data retrieval, business analysis, joins, subqueries, views, stored procedures, and sales reporting. This project is designed to showcase practical SQL, data analysis and Power BI visualization skills.
 
-The project is designed to showcase practical SQL skills for data analysis
 
 
 ## 📊 Dataset
 
 The project uses the **Classic Models** database, which contains business data related to customers, employees, products, orders, and payments.
 
-### Tables Included
+### 🗂️ Tables Included
 * Customers
 * Employees
 * Offices
@@ -20,6 +19,22 @@ The project uses the **Classic Models** database, which contains business data r
 * Payments
 * Products
 * Product Lines
+
+## 📈 Power BI Dashboard
+
+### Dashboard Features
+
+* 📊 Total Revenue
+* 👥 Total Customers
+* 👨‍💼 Total Employees
+* 📦 Total Orders
+* 🛍️ Total Products
+* 🌍 Country-wise Revenue
+* 📅 Revenue Trend (Year-wise)
+* 💰 Revenue by Customer
+* 📦 Product Sales Analysis
+* 📍 Customer Distribution by Country
+* 🎯 Interactive Year and Month Slicers
 
 ## 🛠️ SQL Concepts Used
 * SELECT
@@ -38,12 +53,23 @@ The project uses the **Classic Models** database, which contains business data r
 * Stored Procedures
 * Date Functions
 
+## 📊 Power BI Concepts Used
+
+* Power Query
+* Data Modeling
+* Relationships
+* DAX Measures
+* KPI Cards
+* Slicers
+* Bar Charts
+* Donut Charts
+* Line Charts
+* Tables
+* Data Formatting
+
 ## 💻 Tools Used
 * MySQL Workbench
 * MySQL
 * Microsoft Excel (CSV Files)
-
-## 📁 SQL File
-`classic_model_mysql.sql`
 
 **Author :** Vedant Patekar
