@@ -10,6 +10,8 @@ This project demonstrates **SQL** and **Power BI** skills using the **Classic Mo
 
 The project uses the **Classic Models** database, which contains business data related to customers, employees, products, orders, and payments.
 
+---
+
 ### 🗂️ Tables Included
 * Customers
 * Employees
