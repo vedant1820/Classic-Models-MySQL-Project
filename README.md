@@ -4,7 +4,7 @@
 
 This project demonstrates **SQL** and **Power BI** skills using the **Classic Models** sample database. It includes **60 SQL queries** ranging from beginner to advanced level, covering data retrieval, business analysis, joins, subqueries, views, stored procedures, and sales reporting. This project is designed to showcase practical SQL, data analysis and Power BI visualization skills.
 
-
+---
 
 ## 📊 Dataset
 
@@ -19,6 +19,8 @@ The project uses the **Classic Models** database, which contains business data r
 * Payments
 * Products
 * Product Lines
+
+---
 
 ## 📈 Power BI Dashboard
 
@@ -35,6 +37,8 @@ The project uses the **Classic Models** database, which contains business data r
 * 📦 Product Sales Analysis
 * 📍 Customer Distribution by Country
 * 🎯 Interactive Year and Month Slicers
+
+---
 
 ## 🛠️ SQL Concepts Used
 * SELECT
@@ -53,6 +57,8 @@ The project uses the **Classic Models** database, which contains business data r
 * Stored Procedures
 * Date Functions
 
+---
+
 ## 📊 Power BI Concepts Used
 
 * Power Query
@@ -66,6 +72,8 @@ The project uses the **Classic Models** database, which contains business data r
 * Line Charts
 * Tables
 * Data Formatting
+
+---
 
 ## 💻 Tools Used
 * MySQL Workbench
